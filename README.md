@@ -21,11 +21,11 @@ _____
 ## 3. Restricciones e invariante (Fase 1 y 2)
 
 **Restricciones** (¿qué debe cumplirse?):
-- _____
-- _____
+- la base debe ser mas que 0
+- la altura debe ser mas que 0 
 
 **¿Qué hace mi programa con una medida de 0 o negativa? ¿Por qué?**
-_____
+la rechaza ya que en el codigo dice que debe ser mayor a 0 sino se pide de nuevo el numero 
 
 **¿Quién detecta cada error?** (¿qué revisa `leerDecimal` y qué reviso yo?)
 _____
