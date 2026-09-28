@@ -46,7 +46,7 @@ También puedes hacer el clone desde GitHub Desktop como lo hemos hecho antes.
 ulsa_ime_1_dp_rectangulo/
 ├── README.md      ← plantilla con espacios en blanco para llenar
 ├── PRACTICA.md    ← este documento
-├── RECETA.md      ← vacío: aquí escribes TU receta completa
+├── RECETA.md      ← aquí escribes TU receta completa (trae solo el primer paso de ejemplo)
 ├── main.cpp       ← punto de partida de tu programa
 ├── utilerias.h    ← función de apoyo para leer números (no lo modifiques)
 └── .gitignore     ← evita subir el ejecutable
@@ -92,7 +92,7 @@ ulsa_ime_1_dp_rectangulo/
 *Escribe tu receta completa en `RECETA.md`. Llena las secciones 3 y 5 de tu `README.md`.*
 
 > **Nota técnica: esta vez no hay espacios en blanco.**
-> En las prácticas anteriores completabas una receta ya iniciada. Ahora partes de una hoja vacía. Es normal que tu primera versión tenga huecos o pasos de más; para eso existe la prueba a mano. Una receta que corregiste tres veces no es un fracaso: es exactamente el proceso.
+> En las prácticas anteriores completabas una receta ya iniciada. Ahora partes solo con un primer paso de ejemplo, que te muestra el formato; todo lo demás lo decides tú. Es normal que tu primera versión tenga huecos o pasos de más; para eso existe la prueba a mano. Una receta que corregiste tres veces no es un fracaso: es exactamente el proceso.
 
 **Preguntas que te ayudan a construir la receta**
 
