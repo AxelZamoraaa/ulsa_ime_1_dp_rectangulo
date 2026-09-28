@@ -1,13 +1,8 @@
-// ¿Recuerdas qué hace iostream?
 #include <iostream>
 
-// ¿Por qué este include usa comillas y no < >?
 #include "utilerias.h"
 
-// ¿por qué debe existir la función main()?
 int main() {
-    // 1. Variables (siempre inicializadas)
-    //    TODO: ¿qué variables necesitas? ¿De qué tipo? ¿Con qué valor empiezan?
 
     std::cout << "Area y perimetro de un rectangulo\n";
 
@@ -25,6 +20,5 @@ int main() {
     // 5. Salida
     //    TODO: muestra el área y el perímetro, con sus unidades
 
-    // ¿Qué significa return 0;?
     return 0;
 }
